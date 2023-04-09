@@ -43,19 +43,27 @@ Here are some ideas to get you started:
 - ⚛️ JavaScript | NodeJS | Python
 - 📝 I'm graduating in Analysis and Software Development
 
+
+##
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
-** 🖥️ Languages and tools: **
+##
+**🖥️ Languages and tools:**
 
-<code><img width="300px" align="right" src="https://i.ibb.co/XybXz0V/download.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png"></code>
+<p align="left">
+<img width="300px" align="right" src="https://i.ibb.co/XybXz0V/download.png">
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" title = "VSCode"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png"></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png"></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "Javascript"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png"></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/127213300/230792929-7b931b96-3c3e-4581-8d57-1905545e541f.png" title = "GitHub"/></code>
+</p>
 
 </br>
 
